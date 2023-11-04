@@ -28,3 +28,5 @@ Then you can start the server with:
 ```
 python3 main.py
 ```
+Then run the commands 127.0.0.1:5000 in your browser's search bar. Then you can update the database with 127.0.0.1:5000/api/update_basket_a and check with 127.0.0.1:5000/api/unique.
+You may need to install the individual requirements in the terminal before running the python file.
